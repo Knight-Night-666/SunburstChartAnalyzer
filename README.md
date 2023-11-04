@@ -43,7 +43,7 @@ This will display the original image, extracted text annotations, and the genera
 
 The results are quantitatively evaluated using Tree Edit Distance to compare the similarity between the original and extracted tree structures.
 
-Sample validation datasets with synthetic sunburst images are provided in the /data folder.
+Sample validation datasets with synthetic sunburst images are provided in the /validation/validation_dataset folder.
 
 ## References
 
