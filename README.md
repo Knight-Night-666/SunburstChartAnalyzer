@@ -2,6 +2,7 @@
 
 SunburstChartAnalyzer is a tool for extracting hierarchical data from images of sunburst charts and representing it as a tree data structure.
 
+
 ## Description
 Sunburst charts are a popular way to visualize hierarchical data using concentric circles and annular sectors. Manually extracting the data from sunburst chart images can be tedious.
 
